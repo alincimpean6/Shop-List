@@ -3,6 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
 ## App description
+
+
+![weblist](https://github.com/alincimpean6/Shop-List/blob/main/weblist.gif)
+
+
 App that uses API to store the products (JSON server).
 
 It has the ability to add new products in a custom interface, then they can be edited or deleted.
